@@ -1,0 +1,8 @@
+/Users/d2c-sanjana-s/Downloads/germanvocabulary/src/main/java/com/example/germanvocabularyservice/germanvocabulary/GermanvocabularyApplication.java
+/Users/d2c-sanjana-s/Downloads/germanvocabulary/src/main/java/com/example/germanvocabularyservice/germanvocabulary/controller/GermanWordController.java
+/Users/d2c-sanjana-s/Downloads/germanvocabulary/src/main/java/com/example/germanvocabularyservice/germanvocabulary/entity/GermanWord.java
+/Users/d2c-sanjana-s/Downloads/germanvocabulary/src/main/java/com/example/germanvocabularyservice/germanvocabulary/repository/ExcelToDatabaseRepository.java
+/Users/d2c-sanjana-s/Downloads/germanvocabulary/src/main/java/com/example/germanvocabularyservice/germanvocabulary/repository/GermanNounRepository.java
+/Users/d2c-sanjana-s/Downloads/germanvocabulary/src/main/java/com/example/germanvocabularyservice/germanvocabulary/runner/ConsoleAppRunner.java
+/Users/d2c-sanjana-s/Downloads/germanvocabulary/src/main/java/com/example/germanvocabularyservice/germanvocabulary/service/ExcelImportService.java
+/Users/d2c-sanjana-s/Downloads/germanvocabulary/src/main/java/com/example/germanvocabularyservice/germanvocabulary/service/GermanNounService.java

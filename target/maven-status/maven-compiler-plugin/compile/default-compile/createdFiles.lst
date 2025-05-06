@@ -1,0 +1,8 @@
+com/example/germanvocabularyservice/germanvocabulary/service/ExcelImportService.class
+com/example/germanvocabularyservice/germanvocabulary/GermanvocabularyApplication.class
+com/example/germanvocabularyservice/germanvocabulary/runner/ConsoleAppRunner.class
+com/example/germanvocabularyservice/germanvocabulary/repository/ExcelToDatabaseRepository.class
+com/example/germanvocabularyservice/germanvocabulary/entity/GermanWord.class
+com/example/germanvocabularyservice/germanvocabulary/controller/GermanWordController.class
+com/example/germanvocabularyservice/germanvocabulary/repository/GermanNounRepository.class
+com/example/germanvocabularyservice/germanvocabulary/service/GermanNounService.class
